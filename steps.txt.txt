@@ -1,3 +1,7 @@
-git add . 	- adds all the file in that specific folder for 
-            	version control.
-git add fname   - adds only that file for version control.
+git add .
+	adds all the file in that specific folder for 
+version control.
+git add fname
+	adds only that file for version control.
+git commit -m "msg"
+	it commit the changes in the file present at staged part.
