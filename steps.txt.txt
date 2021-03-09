@@ -15,4 +15,5 @@ git status
 	It is used to check the status of the file.
 git remote add origin link
 	It links the newly created repository.
-
+git remote -v
+	It is used to see the push pull.
