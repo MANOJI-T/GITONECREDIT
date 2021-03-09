@@ -11,6 +11,8 @@ git diff
 	This command is done before adding and commiting the new 
 change.It shows the difference between the lastly commited and newly
 added one.
+git status
+	It is used to check the status of the file.
 git remote add origin link
 	It links the newly created repository.
 
