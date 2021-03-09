@@ -18,4 +18,6 @@ git remote add origin link
 git remote -v
 	It is used to see the push pull.
 git help
-	To get help of commands
+	To get help of commands.
+git push origin master
+	To push the changes into the rep.
