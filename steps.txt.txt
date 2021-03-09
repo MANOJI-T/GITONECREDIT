@@ -1,7 +1,14 @@
 git add .
-	adds all the file in that specific folder for 
+	Adds all the file in that specific folder for 
 version control.
 git add fname
-	adds only that file for version control.
+	Adds only that file for version control.
 git commit -m "msg"
-	it commit the changes in the file present at staged part.
+	It commit the changes in the file present at staged part.
+git log
+	It shows all the operations you have done it before.
+git diff
+	This command is done before adding and commiting the new 
+change.It shows the difference between the lastly commited and newly
+added one.
+
