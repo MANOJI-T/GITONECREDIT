@@ -17,3 +17,5 @@ git remote add origin link
 	It links the newly created repository.
 git remote -v
 	It is used to see the push pull.
+git help
+	To get help of commands
