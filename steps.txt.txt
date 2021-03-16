@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-hi from original repository
-=======
-hi from user
->>>>>>> 8f6d427f29a51aa1996298bb5d7ce170b02aa343
+hello original
 git add .
 	Adds all the file in that specific folder for 
 version control.
