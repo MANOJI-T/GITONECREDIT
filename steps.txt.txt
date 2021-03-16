@@ -21,4 +21,7 @@ git help
 	To get help of commands.
 git push origin master
 	To push the changes into the rep.
+conflict
+	1.User 0 added and pushed a commit
+	  User 1 has no local changes and no commit and git pull  -->fast forward strategy
 end
