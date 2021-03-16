@@ -27,4 +27,5 @@ conflict
 	2.User 0 added and pushed a commit
 	  User 1 has local changes but not commited.
 	  when git pull it throws error to commit or delete the changes and then git pull.
+	3.User 0 added and pushed a commit
 end
