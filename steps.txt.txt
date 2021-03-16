@@ -24,4 +24,7 @@ git push origin master
 conflict
 	1.User 0 added and pushed a commit
 	  User 1 has no local changes and no commit and git pull  -->fast forward strategy
+	2.User 0 added and pushed a commit
+	  User 1 has local changes but not commited.
+	  when git pull it throws error to commit or delete the changes and then git pull.
 end
